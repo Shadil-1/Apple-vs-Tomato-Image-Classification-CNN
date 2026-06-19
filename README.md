@@ -156,7 +156,7 @@ FruitVision-CNN/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/FruitVision-CNN.git
+git clone [https://github.com/Shadil-1/Apple-vs-Tomato-Image-Classification-CNN.git]
 ```
 
 Install dependencies:
